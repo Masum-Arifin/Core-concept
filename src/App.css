@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+.product{
+  background-color: rgb(50, 66, 71);
+  padding: 15px;
+  border: 2px solid gray;
+  margin: 15px;
+border-radius: 20px;
+color: aliceblue;
+}
